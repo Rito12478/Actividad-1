@@ -7,11 +7,5 @@ namespace Actividad_1
         public string IdUsuario;
         public string Nombre;
         private string Domicilio;
-        
-        public void Adoptar(Mascota m)
-        {
-
-        }
-
     }
 }
