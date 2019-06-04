@@ -1,4 +1,4 @@
-namespace Actividad-1
+namespace Actividad_1
 {
 class Usuario
     {
