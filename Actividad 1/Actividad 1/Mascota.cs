@@ -6,12 +6,5 @@ namespace Actividad_1
         public string IdMascota;
         public string Raza;
         private string Color;
-
-        public void SerAdoptado(Humano h)
-        {
-
-        }
-
-
     }
 }
