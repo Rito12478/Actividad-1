@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Actividad_1
 {
@@ -7,7 +7,7 @@ namespace Actividad_1
         public string IdUsuario;
         public string Nombre;
         private string Domicilio;
-
+        
         public void Adoptar(Mascota m)
         {
 
